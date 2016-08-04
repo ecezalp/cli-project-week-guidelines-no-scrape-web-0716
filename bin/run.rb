@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 require_relative "../lib/API.rb"
 require_relative "../lib/CLI.rb"
@@ -38,3 +39,8 @@ end
 
 
 
+=======
+require_relative '../config/environment'
+
+ExampleCLI.new.call
+>>>>>>> 5dfa44a4d9bb6f005fb561c364fa894889b1781f
